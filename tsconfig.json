@@ -3,6 +3,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "types": ["@tauri-apps/api"],
     "outDir": "./dist/out-tsc",
     "strict": true,
     "noImplicitOverride": true,
